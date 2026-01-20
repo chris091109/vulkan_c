@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/chris/vulkan_c/build",
+  "command": "/nix/store/r9wbjib6xxjkyb9yvjvrkl4sq61i2lyn-gcc-wrapper-15.2.0/bin/gcc  -I/home/chris/vulkan_c/src -isystem /nix/store/3mxwvjpsqvaairm8b7j495znp6l04j51-vulkan-headers-1.4.335.0/include -isystem /nix/store/7aqm8l1y0m118xiv8jg0fglm1w7v199n-glfw-3.4/include -std=gnu11 -Wall -Wextra -Wpedantic -o CMakeFiles/app.dir/src/main.c.o -c /home/chris/vulkan_c/src/main.c",
+  "file": "/home/chris/vulkan_c/src/main.c",
+  "output": "CMakeFiles/app.dir/src/main.c.o"
+},
+{
+  "directory": "/home/chris/vulkan_c/build",
+  "command": "/nix/store/r9wbjib6xxjkyb9yvjvrkl4sq61i2lyn-gcc-wrapper-15.2.0/bin/gcc  -I/home/chris/vulkan_c/src -isystem /nix/store/3mxwvjpsqvaairm8b7j495znp6l04j51-vulkan-headers-1.4.335.0/include -isystem /nix/store/7aqm8l1y0m118xiv8jg0fglm1w7v199n-glfw-3.4/include -std=gnu11 -Wall -Wextra -Wpedantic -o CMakeFiles/app.dir/src/platform.c.o -c /home/chris/vulkan_c/src/platform.c",
+  "file": "/home/chris/vulkan_c/src/platform.c",
+  "output": "CMakeFiles/app.dir/src/platform.c.o"
+},
+{
+  "directory": "/home/chris/vulkan_c/build",
+  "command": "/nix/store/r9wbjib6xxjkyb9yvjvrkl4sq61i2lyn-gcc-wrapper-15.2.0/bin/gcc  -I/home/chris/vulkan_c/src -isystem /nix/store/3mxwvjpsqvaairm8b7j495znp6l04j51-vulkan-headers-1.4.335.0/include -isystem /nix/store/7aqm8l1y0m118xiv8jg0fglm1w7v199n-glfw-3.4/include -std=gnu11 -Wall -Wextra -Wpedantic -o CMakeFiles/app.dir/src/vulkan_init.c.o -c /home/chris/vulkan_c/src/vulkan_init.c",
+  "file": "/home/chris/vulkan_c/src/vulkan_init.c",
+  "output": "CMakeFiles/app.dir/src/vulkan_init.c.o"
+},
+{
+  "directory": "/home/chris/vulkan_c/build",
+  "command": "/nix/store/r9wbjib6xxjkyb9yvjvrkl4sq61i2lyn-gcc-wrapper-15.2.0/bin/gcc  -I/home/chris/vulkan_c/src -isystem /nix/store/3mxwvjpsqvaairm8b7j495znp6l04j51-vulkan-headers-1.4.335.0/include -isystem /nix/store/7aqm8l1y0m118xiv8jg0fglm1w7v199n-glfw-3.4/include -std=gnu11 -Wall -Wextra -Wpedantic -o CMakeFiles/app.dir/src/rendering.c.o -c /home/chris/vulkan_c/src/rendering.c",
+  "file": "/home/chris/vulkan_c/src/rendering.c",
+  "output": "CMakeFiles/app.dir/src/rendering.c.o"
+}
+]

@@ -10,8 +10,8 @@
 #include <stdint.h>
 #include <vulkan/vulkan_core.h>
 
-static const char *vert_path = "external/shaders/vert.spv";
-static const char *frag_path = "external/shaders/frag.spv";
+static const char *vert_path = "external/shaders/shader.vert.spv";
+static const char *frag_path = "external/shaders/shader.frag.spv";
 
 typedef struct {
   VkSurfaceCapabilitiesKHR capabilities;
